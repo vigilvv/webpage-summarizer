@@ -1,14 +1,20 @@
 
 Summarize any webpage!
 
+
+### Usage
+
 - Install "glow" to display markdown in the terminal. For MacOS: `brew install glow`
 - Add "OPENAI_API_KEY" to .env
-
-Features:
-
+- Run with `uv run main.py`
 
 
-Future features:
+
+### Features:
+
+[x] Summarize a webpage given an url
+
+### Future features:
 
 [ ] Support for JavaScript only pages (using Playwright)
 
